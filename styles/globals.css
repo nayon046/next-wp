@@ -14,3 +14,26 @@ a {
 * {
   box-sizing: border-box;
 }
+.menuArea{
+  background:#16a085;
+  
+}
+
+.menuArea ul{
+  display: flex;
+  justify-content: space-around;
+}
+.menuArea ul li{
+  list-style: none;
+  padding: 10px 0;
+  color:white
+  
+}
+.home-main-area{
+  display: flex;
+  align-items: center;
+  padding-top: 20px;
+}
+.home-content{
+ 
+}
